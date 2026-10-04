@@ -62,3 +62,7 @@ All arithmetic is done modulo 26.
 ```bash
 python3 -m unittest -v
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
