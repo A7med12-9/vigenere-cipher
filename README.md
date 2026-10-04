@@ -1,5 +1,7 @@
 # Vigenere Cipher
 
+[![tests](https://github.com/A7med12-9/vigenere-cipher/actions/workflows/tests.yml/badge.svg)](https://github.com/A7med12-9/vigenere-cipher/actions/workflows/tests.yml)
+
 A command-line Vigenere cipher tool written in Python. It encrypts and decrypts text, preserves upper/lower case, and leaves spaces and punctuation untouched.
 
 > **Disclaimer:** The Vigenere cipher is an educational cipher that has been breakable since the 19th century (Kasiski examination, index of coincidence). This project is for learning and CTF practice. Do not use it to protect real data.
