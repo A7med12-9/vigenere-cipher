@@ -18,6 +18,44 @@ A command-line Vigenere cipher tool written in Python. It encrypts and decrypts 
 
 Python 3 (standard library only, no extra packages)
 
+## Installation
+
+There are three ways to get the project. Pick whichever you prefer.
+
+### Option 1: Clone with Git (recommended)
+
+```bash
+git clone https://github.com/A7med12-9/vigenere-cipher.git
+cd vigenere-cipher
+```
+
+### Option 2: Download as a ZIP
+
+1. Open the [repository page](https://github.com/A7med12-9/vigenere-cipher).
+2. Click the green **Code** button.
+3. Click **Download ZIP**.
+4. Extract the ZIP file, then open a terminal inside the extracted folder.
+
+### Option 3: Download only the script
+
+Since the program is a single file with no dependencies, you can grab just that:
+
+```bash
+curl -O https://raw.githubusercontent.com/A7med12-9/vigenere-cipher/main/vigenere_cipher_app.py
+```
+
+Or with `wget`:
+
+```bash
+wget https://raw.githubusercontent.com/A7med12-9/vigenere-cipher/main/vigenere_cipher_app.py
+```
+
+After downloading, check that Python 3 is installed:
+
+```bash
+python3 --version
+```
+
 ## Usage
 
 ```bash
